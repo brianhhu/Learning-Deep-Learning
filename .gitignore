@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 .pyc
+./TransferLearning/caffe
+./TransferLearning/data
+./TransferLearning/checkpoints

@@ -1,0 +1,19 @@
+-------
+Split 1
+-------
+Test Accuracy: 0.923529
+
+
+-------
+Split 2
+-------
+Test Accuracy: 0.911765
+
+
+-------
+Split 3
+-------
+Test Accuracy: 0.914706
+
+
+Mean Accuracy: 0.916667
